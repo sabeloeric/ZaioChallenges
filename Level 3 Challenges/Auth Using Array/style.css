@@ -1,0 +1,30 @@
+body, html{
+    background-color: blueviolet;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100%;
+}
+
+
+.login_field{
+    display: flex;  
+    flex-direction: column;
+    background-color: aliceblue;
+    padding: 40px 30px 30px 30px;
+    border-radius: 10px;
+    position: absolute;
+    top: 20%;
+    left: 35%;
+    width: 30%; 
+}
+
+.button{
+    position: relative;
+    left: 35%;
+    margin: 10px;
+    width: 30%;
+  
+    border-radius: 5px;
+    
+}
